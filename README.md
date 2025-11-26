@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center">a
 
 [<img src="./resources/icon.png" width="144"/>](https://help.hydralauncher.gg)
 
